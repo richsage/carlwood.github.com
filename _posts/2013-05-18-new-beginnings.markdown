@@ -2,11 +2,11 @@
 layout: post
 title:  "New Beginnings"
 date:   2013-05-19
-category: web
+category: Web
 ---
 
 <p class="standfirst">The release of my blog is long overdue but I'm happy to say that it's now here!</p> 
-<hr>
+
 I've designed it in the browser to save Photoshop faff and I'm using [Jekyll][jekyll] - a static site generator - to keep things simple.
 
 Wordpress was an option and I'm reasonably familiar with it, but for speed and efficient code, Jekyll is a fantastic solution. Cheers to [Ben Foxall][ben] for the help and tips! Bootstrap comes to the rescue for base and responsive styles. It gets knocked as a tool but to me, it's invaluable.
